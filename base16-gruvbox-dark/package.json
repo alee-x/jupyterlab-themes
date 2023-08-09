@@ -30,22 +30,22 @@
     "watch:webpack": "webpack --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "1.x.0 - 3.x.0",
-    "@jupyterlab/apputils": "1.x.0 - 3.x.0"
+    "@jupyterlab/application": "1.x.0 - 4.x.0",
+    "@jupyterlab/apputils": "1.x.0 - 4.x.0"
   },
   "devDependencies": {
-    "rimraf": "~2.6.2",
-    "typedoc": "~0.12.0",
-    "typescript": "~3.7.1",
-    "css-loader": "~0.28.7",
-    "mini-css-extract-plugin": "~0.4.4",
-    "svgo": "~1.0.4",
-    "svg-url-loader": "~2.3.1",
-    "svgo-loader": "~2.1.0",
-    "url-loader": "~1.0.1",
+    "rimraf": "~5.0.1",
+    "typedoc": "~0.24.8",
+    "typescript": "~5.1.6",
+    "css-loader": "~6.8.1",
+    "mini-css-extract-plugin": "~2.7.6",
+    "svgo": "~3.0.2",
+    "svg-url-loader": "~8.0.0",
+    "svgo-loader": "~4.0.0",
+    "url-loader": "~4.1.1",
     "watch": "~1.0.2",
-    "webpack": "~4.12.0",
-    "webpack-cli": "^3.0.3"
+    "webpack": "~5.88.2",
+    "webpack-cli": "^5.1.4"
   },
   "publishConfig": {
     "access": "public"
